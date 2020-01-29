@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.exe.config
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.exe
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.pdb
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.Form1.resources
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.exe
+C:\Users\Estudiante\Desktop\practica\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.pdb
